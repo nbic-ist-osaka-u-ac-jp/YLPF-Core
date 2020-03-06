@@ -1,2 +1,4 @@
 # YLPF
-Yuragi Learning Platform
+Yuragi Learning Platform Core Module.
+
+

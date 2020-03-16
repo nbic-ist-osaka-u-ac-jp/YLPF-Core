@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.*~
+cBAttM.csv
+iBAttM.csv
+log.txt
+pBAttM.csv
+zBAttM.csv
